@@ -1,5 +1,12 @@
-p {
-    padding: 0;
+nav {
+    background-color: purple;
+    padding: 20px;
+}
+
+nav a {
+    color: aqua;
+    padding: 5px;
+    display: block;
 }
 
 main {
@@ -29,4 +36,12 @@ footer {
     margin-top: 15px;
     border-top: 1px solid #000;
     text-align: center;
+}
+
+p {
+    padding: 0;
+}
+
+h1 {
+    color: #000;
 }
